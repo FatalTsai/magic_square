@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/13 13:15:58.000.972,=C:\Users\玫君\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/13 13:15:59.000.890,=C:\Users\玫君\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/10/19 11:06:39.000.501,=C:\Users\玫君\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/10/19 11:06:39.000.058,=C:\Users\玫君\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/19 11:39:47.000.845,C:\Users\玫君\Desktop\新增資料夾 (3)\Unit1.dfm=C:\Users\玫君\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/19 11:39:47.000.845,C:\Users\玫君\Desktop\新增資料夾 (3)\Unit1.cpp=C:\Users\玫君\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/10/19 11:39:47.000.845,C:\Users\玫君\Desktop\新增資料夾 (3)\Unit1.h=C:\Users\玫君\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019/10/19 11:39:50.000.701,C:\Users\玫君\Desktop\新增資料夾 (3)\Project1PCH1.h=C:\Users\玫君\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/19 11:39:51.000.788,C:\Users\玫君\Desktop\新增資料夾 (3)\Project1.cbproj=C:\Users\玫君\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
